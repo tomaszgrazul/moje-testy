@@ -1,0 +1,10 @@
+.btn {
+    position: relative;
+    top: 150px;
+    height: 70px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    color: black;
+    cursor: pointer;
+}
