@@ -1,10 +1,11 @@
 .btn {
     position: relative;
-    top: 150px;
-    height: 70px;
-    width: 150px;
+    display: inline-block;
+    top: 80px;
+    height: 40px;
+    width: 100px;
+    margin: 1px;
     border-radius: 5px;
     background-color: aquamarine;
-    color: black;
     cursor: pointer;
 }
